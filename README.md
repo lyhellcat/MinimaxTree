@@ -1,4 +1,4 @@
-# 基于Minimax tree的智能跳棋系统
+# 基于Minimax tree的跳棋博弈系统
 
 ## 背景介绍  
 
