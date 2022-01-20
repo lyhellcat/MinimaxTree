@@ -66,7 +66,7 @@
 
 ![img](https://raw.githubusercontent.com/lyhellcat/Pic/master/img/clip_image018.jpg)
 
-​    系统设置了输出棋盘、计算棋盘的当前成本、验证用户输入是否合法、执行用户输入的动作以及构建Minimax决策树等模块。
+系统设置了输出棋盘、计算棋盘的当前成本、验证用户输入是否合法、执行用户输入的动作以及构建Minimax决策树等模块。
 
 部分函数原型及说明如下: 
 
