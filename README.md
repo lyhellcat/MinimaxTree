@@ -339,7 +339,7 @@ void BackPropagate(node_t* root, int dep, int turn) {
 
 ![img](https://raw.githubusercontent.com/lyhellcat/Pic/master/img/clip_image001.png)
 
-​    程序需要读取到最后一行或是读取到字符`A`或`P`结束. 文件test1.out为标准的输出结果, 需要与之一致. 
+程序需要读取到最后一行或是读取到字符`A`或`P`结束. 文件test1.out为标准的输出结果, 需要与之一致. 
 
 ![image-20220120144445134](https://raw.githubusercontent.com/lyhellcat/Pic/master/img/image-20220120144445134.png)
 
